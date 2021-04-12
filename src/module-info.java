@@ -1,0 +1,3 @@
+module ManipularPdf {
+	requires itext;
+}
