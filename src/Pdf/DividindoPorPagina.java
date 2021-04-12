@@ -30,7 +30,7 @@ public class DividindoPorPagina {
 
 		// obter o número de páginas
 		int n = reader.getNumberOfPages();
-		System.out.println("TESTE: " + n);
+		System.out.println("Número de páginas ao total: " + n);
 
 		// percorrer todas as páginas
 
